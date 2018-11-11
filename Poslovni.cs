@@ -177,7 +177,7 @@ namespace Automobili
 
                 }
                 veza.Close();
-                MessageBox.Show("Dodano.");
+                MessageBox.Show("Dodano na popis.");
                 ClearAllText(this);
                 txtOIB.Text = "";
 
